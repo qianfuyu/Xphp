@@ -1,0 +1,1 @@
+ [ E_WARNING ] E_WARNING : <strong>Missing argument 1 for Wechat::conn(), called in D:\wamp\www\myfar\Blog\Control\IndexControl.class.php on line 15 and defined</strong> File: D:\wamp\www\myfar\Xphp\Libs\Bin\Wechat.class.php 第  12 行  ( 2016-07-26 15:33:29 ) 
